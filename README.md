@@ -24,16 +24,9 @@ Olá! Eu sou o André Lobo. Trabalho criando jogos e soluções interativas, uni
 ## 🧩 Projetos e repositórios em destaque
 - Wolvez Studio (organização): https://github.com/Wolvez-Studio
 
-## 📊 Estatísticas do GitHub
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=andre-lobo&show_icons=true&theme=transparent" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-lobo&layout=compact&theme=transparent" alt="Top Languages" height="165" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=andre-lobo&theme=transparent" alt="GitHub Streak" height="165" />
-</p>
-
-## 🤝 Vamos conversar
-- Tem uma ideia de jogo ou quer colaborar? Abra uma issue em algum repositório ou entre em contato via [Wolvez Studio](https://github.com/Wolvez-Studio).
+## 🤝 Contato
+- Tem uma ideia de jogo ou quer colaborar? Abra uma issue em algum repositório ou entre em contato via:
+- [Wolvez Studio Website](https://wolvezstudio.com)
+- [Wolvez Studio Github](https://github.com/Wolvez-Studio)
 
 Obrigado por visitar meu perfil!
