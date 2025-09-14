@@ -23,10 +23,6 @@ Olá! Eu sou o André Lobo. Trabalho criando jogos e soluções interativas, uni
 
 ## 🧩 Projetos e repositórios em destaque
 - Wolvez Studio (organização): https://github.com/Wolvez-Studio
-- Wolvez-Studio/EPS: https://github.com/Wolvez-Studio/EPS
-- rtlobo/iqoption: https://github.com/rtlobo/iqoption
-- andre-lobo/Complete-Python-Bootcamp: https://github.com/andre-lobo/Complete-Python-Bootcamp
-- andre-lobo/Curso-AngularJS: https://github.com/andre-lobo/Curso-AngularJS
 
 ## 📊 Estatísticas do GitHub
 <p>
