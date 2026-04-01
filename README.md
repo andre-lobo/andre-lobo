@@ -27,6 +27,5 @@ Olá! Eu sou o André Lobo. Trabalho criando jogos e soluções interativas, uni
 ## 🤝 Contato
 - Tem uma ideia de jogo ou quer colaborar? Abra uma issue em algum repositório ou entre em contato via:
 - [Wolvez Studio Website](https://wolvezstudio.com)
-- [Wolvez Studio Github](https://github.com/Wolvez-Studio)
 
 Obrigado por visitar meu perfil!
